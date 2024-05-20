@@ -1,0 +1,37 @@
+{
+	"fileName": "id_1713429637562_186_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "customer/app/variant1/changes/fragments/column.fragment.xml",
+	"reference": "customer.app.variant1",
+	"packageName": "$TMP",
+	"content": {
+		"targetAggregation": "columns",
+		"index": 8,
+		"fragmentPath": "fragments/column.fragment.xml"
+	},
+	"selector": {
+		"id": "nw.epm.refapps.st.prod.manage::sap.suite.ui.generic.template.ListReport.view.ListReport::SEPMRA_C_PD_Product--responsiveTable",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/nw.epm.refapps.st.prod.manage/changes/",
+	"projectId": "customer.app.variant1",
+	"creation": "2024-04-18T08:40:37.601Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "sap.ui.rta.command",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.96.28",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "addXML"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
